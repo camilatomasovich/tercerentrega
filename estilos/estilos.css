@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&family=Source+Code+Pro:wght@200..900&display=swap');
+
+body{
+    background-color: #abdae1;
+    color: #252525;
+    font-family: "Source Code Pro", serif;
+}
+
+h1,h2,h4{
+font-family: "Roboto", sans-serif;    
+}
+
+h1{
+    font-weight: 900;
+}
+
+h2,h4{
+text-align: center;
+text-transform: uppercase;
+}
